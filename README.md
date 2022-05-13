@@ -1,4 +1,4 @@
-# RootMeChallenge
+# Obfuscation 3
 
 L'on cherche a obtenir le mot de passe de cette page, si l'on regarde le code ci-dessous l'on voit la clé de déchiffrement.
 ![image](https://user-images.githubusercontent.com/91453779/168388740-afbba1ac-6a52-41c5-9e74-43debfbd5a33.png)
